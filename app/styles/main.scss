@@ -19,7 +19,8 @@ body {
   border-radius: 6px;
   padding: 60px;
   h1 {
-    font-size: 60px;
+    font-size: em(20px);
+    color: red;
     line-height: 1;
     letter-spacing: -1px;
   }
